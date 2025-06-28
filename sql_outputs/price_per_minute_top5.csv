@@ -1,0 +1,6 @@
+airline,flight,route,price,Duration_in_Minutes,price_per_minute
+Vistara,UK-747,Delhi → Kolkata,59224,125,473.79
+Vistara,UK-985,Delhi → Mumbai,58216,130,447.82
+Vistara,UK-747,Delhi → Kolkata,54744,125,437.95
+Vistara,UK-747,Delhi → Kolkata,54744,125,437.95
+Vistara,UK-996,Mumbai → Delhi,55404,130,426.18

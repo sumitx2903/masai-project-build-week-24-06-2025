@@ -1,0 +1,11 @@
+airline,route,min_price
+AirAsia,Chennai → Hyderabad,1105
+GO_FIRST,Chennai → Hyderabad,1105
+Indigo,Chennai → Hyderabad,1105
+SpiceJet,Chennai → Hyderabad,1106
+AirAsia,Chennai → Bangalore,1443
+Indigo,Chennai → Bangalore,1443
+SpiceJet,Chennai → Bangalore,1444
+Air_India,Chennai → Hyderabad,1526
+GO_FIRST,Hyderabad → Chennai,1543
+Indigo,Hyderabad → Chennai,1543

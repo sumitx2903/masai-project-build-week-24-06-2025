@@ -1,0 +1,11 @@
+class,route,avg_price
+Business,Bangalore → Kolkata,58854.69
+Business,Kolkata → Bangalore,58681.1
+Business,Bangalore → Mumbai,58024.62
+Business,Mumbai → Bangalore,57970.54
+Business,Kolkata → Mumbai,57422.55
+Business,Mumbai → Kolkata,57106.53
+Business,Chennai → Kolkata,57078.9
+Business,Kolkata → Chennai,56502.78
+Business,Delhi → Kolkata,56239.85
+Business,Chennai → Mumbai,56223.84

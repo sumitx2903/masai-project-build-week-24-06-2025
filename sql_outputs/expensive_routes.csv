@@ -1,0 +1,11 @@
+airline,route,max_price
+Vistara,Kolkata → Delhi,123071
+Vistara,Delhi → Kolkata,117307
+Vistara,Hyderabad → Mumbai,115211
+Vistara,Kolkata → Hyderabad,114705
+Vistara,Chennai → Mumbai,114704
+Vistara,Mumbai → Bangalore,114523
+Vistara,Delhi → Hyderabad,114507
+Vistara,Mumbai → Chennai,111964
+Vistara,Bangalore → Delhi,111883
+Vistara,Mumbai → Delhi,111437
